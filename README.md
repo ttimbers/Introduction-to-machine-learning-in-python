@@ -9,6 +9,8 @@ using the widely-used Scikit-learn learn package.
 You will be introduced to best practices for machine learning model creation and selection, 
 including data splitting, pre-processing, parameter and model optimization,
 and results visualization and communication.
+Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression)
+but also demonstrate the use of more commonly used and industry standard models (e.g., L1 Regularized regression and Light Gradient Boosting Machines).
 The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax.
 
 ## Audience
