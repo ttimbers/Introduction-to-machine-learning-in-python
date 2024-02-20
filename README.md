@@ -1,5 +1,4 @@
-# Introduction-to-machine-learning-in-python
-Introduction to machine learning in Python with Scikit-learn
+# Introduction to machine learning in Python with Scikit-learn
 
 Copyright 2024 Tiffany Timbers & Trevor Campbell
 
