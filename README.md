@@ -26,5 +26,5 @@ Intermediate or expert familiarity with modeling or machine learning is not requ
 
 These workshop slides, and exercises are shared under the 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-and the workshop software iss shared under the [MIT license](https://choosealicense.com/licenses/mit/). 
+and the workshop software is shared under the [MIT license](https://choosealicense.com/licenses/mit/). 
 See [the license file](LICENSE.md) for more information on how you can use and should cite this work.
